@@ -32,6 +32,7 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 - GSAP (Greensock)
 - Vite
 - Tailwind CSS
+- Sentry
 
 ## <a name="features">🔋 Features</a>
 
@@ -42,6 +43,8 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 👉 **Custom Video Carousel (made with GSAP)**: Engage users with a unique and interactive video carousel developed using GSAP for a personalized browsing experience.
 
 👉 **Completely Responsive**: Consistent access and optimal viewing on any device with a fully responsive design that adapts to different screen sizes.
+
+👉 **Website Monitoring**: Monitoring users engagement and application's performance or crash reports using Sentry.
 
 and many more, including code architecture and reusability
 
